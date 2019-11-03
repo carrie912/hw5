@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">hw5</string>
+    <string name="N_LY_Text">閏年:不是</string>
+    <string name="Y_LY_Text">閏年:是</string>
+</resources>
